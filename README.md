@@ -1,0 +1,1 @@
+# redpanda-kafka-connect-elasticsearch-demo-
